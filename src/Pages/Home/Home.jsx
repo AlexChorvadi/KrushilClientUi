@@ -120,7 +120,7 @@ export const Home = () => {
             <div className="cards">
               <div>
                 <img
-                  src="../ui/Images/hero-content.png"
+                  src="../ui/Images/Home-Content.svg"
                   alt="heroContent"
                   className="w-100"
                 />
@@ -380,7 +380,7 @@ export const Home = () => {
             <div className="col-md-4">
               <div className="about-card">
                 <div>
-                  <img src="../ui/Images/community-icon.png" />
+                  <img src="../ui/Images/community-icon.svg" />
                 </div>
                 <h5>Community Support</h5>
                 <p>
@@ -392,7 +392,7 @@ export const Home = () => {
             <div className="col-md-4">
               <div className="about-card">
                 <div>
-                  <img src="../ui/Images/security-icon.png" />
+                  <img src="../ui/Images/security-icon.svg" />
                 </div>
                 <h5>Security First</h5>
                 <p>
@@ -404,7 +404,7 @@ export const Home = () => {
             <div className="col-md-4">
               <div className="about-card">
                 <div>
-                  <img src="../ui/Images/sheild-icon.png" />
+                  <img src="../ui/Images/sheild-icon.svg" />
                 </div>
                 <h5>24/7 Admin Support</h5>
                 <p>
@@ -524,10 +524,10 @@ export const Home = () => {
             </div>
           </div>
           <div className="dotted-img">
-            <img src="../ui/Images/dotted-1.png" alt="" />
+            <img src="../ui/Images/dotted-1.svg" alt="" />
           </div>
           <div className="dotted-img-2">
-            <img src="../ui/Images/dotted-2.png" alt="" />
+            <img src="../ui/Images/dotted-2.svg" alt="" />
           </div>
         </div>
       </div>
