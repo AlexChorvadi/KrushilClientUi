@@ -400,11 +400,11 @@ export const Home = () => {
                   brand, and website.
                 </p>
               </div>
-            </div>
+            </div> 
             <div className="col-md-4">
               <div className="about-card">
                 <div>
-                  <img src="../ui/Images/sheild-icon.svg" />
+                  <img src="../ui/Images/shield-icon.svg" />
                 </div>
                 <h5>24/7 Admin Support</h5>
                 <p>
