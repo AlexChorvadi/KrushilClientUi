@@ -398,7 +398,7 @@ export const Home = () => {
                 <p>
                   Website security is thus important to protect your business,
                   brand, and website.
-                </p>
+                </p>  
               </div>
             </div> 
             <div className="col-md-4">
