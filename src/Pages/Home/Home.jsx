@@ -387,13 +387,13 @@ export const Home = () => {
                   General Committee for National and General Association
                   Activities for General Society Association
                 </p>
-              </div>
+              </div>  
             </div>
             <div className="col-md-4">
               <div className="about-card">
                 <div>
                   <img src="../ui/Images/security-icon.svg" />
-                </div>
+                </div>  
                 <h5>Security First</h5>
                 <p>
                   Website security is thus important to protect your business,
