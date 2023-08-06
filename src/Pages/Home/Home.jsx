@@ -391,7 +391,7 @@ export const Home = () => {
             </div>
             <div className="col-md-4">
               <div className="about-card">
-                <div>
+                <div>  
                   <img src="../ui/Images/security-icon.svg" />
                 </div>  
                 <h5>Security First</h5>
